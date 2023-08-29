@@ -22,7 +22,7 @@ public class TiposVariaveis {
          * logo a linha 25 vai apresentar um erro de compilação
          * isso é considerado uma CONSTANTE na linguagem Java
          */
-       final double VALOR_DE_PI = 3.14;
+
     }
 
 }
