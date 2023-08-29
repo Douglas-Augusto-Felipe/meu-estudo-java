@@ -1,4 +1,5 @@
 package edu.douglas.primeirasemana;
+
 public class BoletimEstudantil {
 
     public static void main(String[] args) {

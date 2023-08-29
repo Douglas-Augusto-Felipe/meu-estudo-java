@@ -1,4 +1,5 @@
-package edu.douglas.segundasemana;
+
+
 public class MinhasClasse {
     
     public static void main (String [] args){
