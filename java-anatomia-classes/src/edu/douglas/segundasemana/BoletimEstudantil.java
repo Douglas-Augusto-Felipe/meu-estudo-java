@@ -1,4 +1,4 @@
-package edu.douglas.primeirasemana;
+package douglas.segundasemana;
 
 public class BoletimEstudantil {
 
