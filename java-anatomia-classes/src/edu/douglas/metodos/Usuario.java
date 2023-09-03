@@ -15,10 +15,6 @@ public class Usuario {
         smartTv.mudarCanal(13);
         System.out.println("Canal atual: " + smartTv.canal);
 
-        System.out.println("TV ligada? " + smartTv.ligada);
-        System.out.println("Canal atual: " + smartTv.canal);
-        System.out.println("Volume Atual: " + smartTv.volume);
-
         smartTv.ligar();
         System.out.println(" Novo status -> TV ligada? " + smartTv.ligada);
 
