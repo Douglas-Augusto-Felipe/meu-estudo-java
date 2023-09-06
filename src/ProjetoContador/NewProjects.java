@@ -13,7 +13,7 @@ public class NewProjects {
         double salarioBase = 2000.0;
         if (salarioBase > salarioPretendido) {
             System.out.println("LIGAR PARA O CANDIDATO");
-        } else if (salarioBase == salarioPretendido)
+        } else if (salarioBase = salarioPretendido)
             System.out.println("LIGAR PARA O CANDITADO, COM CONTRA PROPOSTA");
 
         else
