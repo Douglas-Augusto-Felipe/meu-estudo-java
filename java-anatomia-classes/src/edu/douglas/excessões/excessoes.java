@@ -29,6 +29,7 @@ public class excessoes {
             scanner.close();
         } catch (InputMismatchException e) {
             System.out.println("o campos idade e altura precisam ser numéricos!");
+            // ou System.err.println("o campos idade e altura precisam ser numéricos!");
         }
     }
 }
