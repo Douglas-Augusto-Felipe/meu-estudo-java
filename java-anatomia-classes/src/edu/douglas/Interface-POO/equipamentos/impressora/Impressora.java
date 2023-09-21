@@ -1,3 +1,3 @@
 public interface Impressora {
-        public void imprimir();
+    public void imprimir();
 }
